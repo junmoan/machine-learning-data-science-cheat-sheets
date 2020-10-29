@@ -2,7 +2,7 @@
 This document is under early stage development.
 
 
-## Neural Network Architectures
+### Neural Network Architectures
 * http://www.asimovinstitute.org/neural-network-zoo/
 
 ## Machine Learning Algorithm Cheat Sheet for Azure Machine Learning designer
