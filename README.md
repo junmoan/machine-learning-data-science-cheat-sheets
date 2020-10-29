@@ -11,7 +11,7 @@ This document is under early stage development.
 ## Which machine learning algorithm should I use?
 * http://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/
 
-## A Tour of Machine Learning Algorithms
+#### A Tour of Machine Learning Algorithms
 * https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
 
 ## The world of machine learning algorithms – a summary infographic
