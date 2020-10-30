@@ -135,7 +135,7 @@ This document is under early stage development.
 #### Statistics Cheat Sheet
 * http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf<br><br>
 
-## Liear Algebra
+## Linear Algebra
 #### Python For Data Science - Cheat Sheet (SciPy - Linear Algebra)
 * https://datacamp-community-prod.s3.amazonaws.com/5710caa7-94d4-4248-be94-d23dea9e668f
 
