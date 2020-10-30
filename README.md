@@ -34,6 +34,7 @@ This document is under early stage development.
 #### Python For Data Science - Cheat Sheet (Python Basics)
 * https://datacamp-community-prod.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612
 <br>
+<br>
 ## Numpy
 #### NumPy Cheat Sheet — Python for Data Science
 * https://www.dataquest.io/blog/numpy-cheat-sheet/
