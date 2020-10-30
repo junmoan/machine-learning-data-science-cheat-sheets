@@ -39,11 +39,17 @@ This document is under early stage development.
 ### NumPy Cheat Sheet: Data Analysis in Python
 * https://www.datacamp.com/community/blog/python-numpy-cheat-sheet#gs.Nw3V6CE
 
+### Python For Data Science - Cheat Sheet (Pandas Basics)
+http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3
+
 ### Data Analysis with PANDAS - CHEAT SHEET
 * http://datasciencefree.com/pandas.pdf
 
 ### Pandas Cheat Sheet for Data Science in Python
 * https://www.datacamp.com/community/blog/python-pandas-cheat-sheet#gs.S4P4T=U
+
+### Python For Data Science - Cheat Sheet (Pandas)
+* https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf
 
 ### Matplotlib Cheat Sheet: Plotting in Python
 * https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet
@@ -51,8 +57,20 @@ This document is under early stage development.
 ### Scikit-Learn Cheat Sheet: Python Machine Learning
 * https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet#gs.fZ2A1Jk
 
+### Python For Data Science - Cheat Sheet (Scikit-Learn)
+* https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf
+
 ### Machine Learning Cheat Sheet (for scikit-learn)
-https://peekaboo-vision.blogspot.com/2013/01/machine-learning-cheat-sheet-for-scikit.html
+* https://peekaboo-vision.blogspot.com/2013/01/machine-learning-cheat-sheet-for-scikit.html
+
+### Python For Data Science - Cheat Sheet (Matplotlib)
+* https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf
+
+### Python For Data Science - Cheat Sheet (Importing Data)
+* https://datacamp-community-prod.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef
+
+### Python for Data Science Cheat Sheet (spaCy)
+* http://datacamp-community-prod.s3.amazonaws.com/29aa28bf-570a-4965-8f54-d6a541ae4e06
 
 ### Probability Cheatsheet v2.0
 * https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
