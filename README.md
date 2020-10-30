@@ -1,10 +1,10 @@
-# Cheat Sheets of Machine Learning and Python
+# Cheat Sheets of Machine Learning and Data Science
 This document is under early stage development.
 <br>
 <br>
 <br>
 <br>
-## List of data science cheat sheet
+## List of Data Science and Machine Learning Cheat Sheets
 #### Neural Network Architectures
 * http://www.asimovinstitute.org/neural-network-zoo/
 
