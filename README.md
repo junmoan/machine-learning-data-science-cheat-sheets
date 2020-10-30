@@ -24,6 +24,9 @@ This document is under early stage development.
 #### Cheatsheet – Python & R codes for common Machine Learning Algorithms
 * https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/
 
+#### Quick Guide: Steps To Perform Text Data Cleaning in Python
+* https://www.analyticsvidhya.com/blog/2015/06/quick-guide-text-data-cleaning-python/?utm_source=linkedin.com&utm_medium=social
+
 #### Python For Data Science - A Cheat Sheet For Beginners
 * https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.0x1rxEA<br><br>
 
@@ -63,7 +66,13 @@ http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab37
 #### Python For Data Science - Cheat Sheet (Pandas)
 * https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf<br><br>
 
-## Keras
+## Deep Learning
+#### TensorFlow
+* https://cdn-images-1.medium.com/max/2000/1*dtOZSuYDonyyBvEULpJALw.png
+
+#### PyTorch
+https://pytorch.org/tutorials/beginner/ptcheat.html
+
 #### Python For Data Science - Cheat Sheet (Keras)
 * https://datacamp-community-prod.s3.amazonaws.com/4d91fcbc-820d-4ae2-891b-f7a436ebefd4<br><br>
 
@@ -82,7 +91,10 @@ https://www.analyticsvidhya.com/blog/2016/12/cheatsheet-scikit-learn-caret-packa
 
 ## Jupyter Notebook
 #### Python For Data Science - Cheat Sheet (Jupyter Notebook)
-* https://datacamp-community-prod.s3.amazonaws.com/f9f06e72-519a-4722-9912-b5de742dbac4<br><br>
+* https://datacamp-community-prod.s3.amazonaws.com/f9f06e72-519a-4722-9912-b5de742dbac4
+
+#### Jupyter Notebook Keyboard Shortcuts
+* https://cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/<br><br>
 
 ## Visualization
 #### Matplotlib Cheat Sheet: Plotting in Python
@@ -96,6 +108,9 @@ https://www.analyticsvidhya.com/blog/2016/12/cheatsheet-scikit-learn-caret-packa
 
 #### Python For Data Science - Cheat Sheet (Seaborn)
 * https://datacamp-community-prod.s3.amazonaws.com/f9f06e72-519a-4722-9912-b5de742dbac4<br><br>
+
+## Natural Language Processing
+* https://www.cheatography.com//murenei/cheat-sheets/natural-language-processing-with-python-and-nltk/pdf/<br><br>
 
 ## Importing Data
 #### Python For Data Science - Cheat Sheet (Importing Data)
@@ -112,9 +127,12 @@ https://www.analyticsvidhya.com/blog/2016/12/cheatsheet-scikit-learn-caret-packa
 #### Python For Data Science - Cheat Sheet (PySpark - SQL Basics)
 * https://datacamp-community-prod.s3.amazonaws.com/65076e3c-9df1-40d5-a0c2-36294d9a3ca9<br><br>
 
-## Probability
+## Probability & Statistics
 #### Probability Cheatsheet v2.0
-* https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf<br><br>
+* https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
+
+#### Statistics Cheat Sheet
+* http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf<br><br>
 
 ## Liear Algebra
 #### Python For Data Science - Cheat Sheet (SciPy - Linear Algebra)
