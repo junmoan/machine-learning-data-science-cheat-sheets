@@ -25,7 +25,7 @@ This document is under early stage development.
 * https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/
 
 #### Python For Data Science - A Cheat Sheet For Beginners
-* https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.0x1rxEA
+* https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.0x1rxEA<br>
 
 ## Python
 #### Python Cheat Sheet
