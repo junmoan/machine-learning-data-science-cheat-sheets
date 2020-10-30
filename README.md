@@ -52,7 +52,7 @@ This document is under early stage development.
 
 ## Pandas
 #### Python For Data Science - Cheat Sheet (Pandas Basics)
-http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3
+* http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3
 
 #### Data Analysis with PANDAS - CHEAT SHEET
 * http://datasciencefree.com/pandas.pdf
@@ -71,7 +71,7 @@ http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab37
 * https://cdn-images-1.medium.com/max/2000/1*dtOZSuYDonyyBvEULpJALw.png
 
 #### PyTorch
-https://pytorch.org/tutorials/beginner/ptcheat.html
+* https://pytorch.org/tutorials/beginner/ptcheat.html
 
 #### Python For Data Science - Cheat Sheet (Keras)
 * https://datacamp-community-prod.s3.amazonaws.com/4d91fcbc-820d-4ae2-891b-f7a436ebefd4<br><br>
@@ -81,7 +81,7 @@ https://pytorch.org/tutorials/beginner/ptcheat.html
 * https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet#gs.fZ2A1Jk
 
 #### Cheatsheet: Scikit-Learn & Caret Package for Python & R respectively
-https://www.analyticsvidhya.com/blog/2016/12/cheatsheet-scikit-learn-caret-package-for-python-r-respectively/?utm_source=linkedin.com&utm_medium=social
+* https://www.analyticsvidhya.com/blog/2016/12/cheatsheet-scikit-learn-caret-package-for-python-r-respectively/?utm_source=linkedin.com&utm_medium=social
 
 #### Python For Data Science - Cheat Sheet (Scikit-Learn)
 * https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf
