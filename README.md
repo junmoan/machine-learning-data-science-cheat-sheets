@@ -3,6 +3,8 @@ This document is under early stage development.
 <br>
 <br>
 <br>
+<br>
+## List of data science cheat sheet
 #### Neural Network Architectures
 * http://www.asimovinstitute.org/neural-network-zoo/
 
