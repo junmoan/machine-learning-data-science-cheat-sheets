@@ -24,12 +24,17 @@ This document is under early stage development.
 #### Cheatsheet – Python & R codes for common Machine Learning Algorithms
 * https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/
 
-#### Python Cheat Sheet
-* http://datasciencefree.com/python.pdf
-
 #### Python For Data Science - A Cheat Sheet For Beginners
 * https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.0x1rxEA
 
+## Python
+#### Python Cheat Sheet
+* http://datasciencefree.com/python.pdf
+
+#### Python For Data Science - Cheat Sheet (Python Basics)
+* https://datacamp-community-prod.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612
+<br>
+## Numpy
 #### NumPy Cheat Sheet — Python for Data Science
 * https://www.dataquest.io/blog/numpy-cheat-sheet/
 
@@ -41,7 +46,8 @@ This document is under early stage development.
 
 #### NumPy Cheat Sheet: Data Analysis in Python
 * https://www.datacamp.com/community/blog/python-numpy-cheat-sheet#gs.Nw3V6CE
-
+<br>
+## Pandas
 #### Python For Data Science - Cheat Sheet (Pandas Basics)
 http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3
 
@@ -51,9 +57,6 @@ http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab37
 #### Pandas Cheat Sheet for Data Science in Python
 * https://www.datacamp.com/community/blog/python-pandas-cheat-sheet#gs.S4P4T=U
 
-#### Python For Data Science - Cheat Sheet (Python Basics)
-* https://datacamp-community-prod.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612
-
 #### Python For Data Science - Cheat Sheet (Pandas Basics)
 * http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3
 
@@ -62,10 +65,7 @@ http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab37
 
 #### Python For Data Science - Cheat Sheet (Keras)
 * https://datacamp-community-prod.s3.amazonaws.com/4d91fcbc-820d-4ae2-891b-f7a436ebefd4
-
-#### Matplotlib Cheat Sheet: Plotting in Python
-* https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet
-
+<br>
 ## Scikit-Learn
 #### Scikit-Learn Cheat Sheet: Python Machine Learning
 * https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet#gs.fZ2A1Jk
@@ -78,12 +78,15 @@ https://www.analyticsvidhya.com/blog/2016/12/cheatsheet-scikit-learn-caret-packa
 
 #### Machine Learning Cheat Sheet (for scikit-learn)
 * https://peekaboo-vision.blogspot.com/2013/01/machine-learning-cheat-sheet-for-scikit.html
-
+<br>
 ## Jupyter Notebook
 #### Python For Data Science - Cheat Sheet (Jupyter Notebook)
 * https://datacamp-community-prod.s3.amazonaws.com/f9f06e72-519a-4722-9912-b5de742dbac4
-
+<br>
 ## Visualization
+#### Matplotlib Cheat Sheet: Plotting in Python
+* https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet
+
 #### Python For Data Science - Cheat Sheet (Bokeh)
 * https://datacamp-community-prod.s3.amazonaws.com/f9511cf4-abb9-4f52-9663-ea93b29ee4b7
 
@@ -92,22 +95,26 @@ https://www.analyticsvidhya.com/blog/2016/12/cheatsheet-scikit-learn-caret-packa
 
 #### Python For Data Science - Cheat Sheet (Seaborn)
 * https://datacamp-community-prod.s3.amazonaws.com/f9f06e72-519a-4722-9912-b5de742dbac4
-
+<br>
+## Importing Data
 #### Python For Data Science - Cheat Sheet (Importing Data)
 * https://datacamp-community-prod.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef
-
+<br>
+## spaCy
 #### Python for Data Science Cheat Sheet (spaCy)
 * http://datacamp-community-prod.s3.amazonaws.com/29aa28bf-570a-4965-8f54-d6a541ae4e06
-
+<br>
+## PySpark
 #### Python For Data Science - Cheat Sheet (PySpark - RDD Basics)
 * https://datacamp-community-prod.s3.amazonaws.com/4d91fcbc-820d-4ae2-891b-f7a436ebefd4
 
 #### Python For Data Science - Cheat Sheet (PySpark - SQL Basics)
 * https://datacamp-community-prod.s3.amazonaws.com/65076e3c-9df1-40d5-a0c2-36294d9a3ca9
-
+<br>
+## Probability
 #### Probability Cheatsheet v2.0
 * https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
-
+<br>
 ## Liear Algebra
 #### Python For Data Science - Cheat Sheet (SciPy - Linear Algebra)
 * https://datacamp-community-prod.s3.amazonaws.com/5710caa7-94d4-4248-be94-d23dea9e668f
