@@ -1,10 +1,9 @@
-# Cheat Sheets of Machine Learning and Data Science
+# Cheat Sheets of Machine Learning and Python
 This document is under early stage development.
 <br>
 <br>
 <br>
-<br>
-## List of Data Science and Machine Learning Cheat Sheets
+## List of data science cheat sheet
 #### Neural Network Architectures
 * http://www.asimovinstitute.org/neural-network-zoo/
 
@@ -27,14 +26,14 @@ This document is under early stage development.
 * https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/
 
 #### Quick Guide: Steps To Perform Text Data Cleaning in Python
-* https://www.analyticsvidhya.com/blog/2015/06/quick-guide-text-data-cleaning-python/?utm_source=linkedin.com&utm_medium=social
-
-#### Python For Data Science - A Cheat Sheet For Beginners
-* https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.0x1rxEA<br><br>
+* https://www.analyticsvidhya.com/blog/2015/06/quick-guide-text-data-cleaning-python/?utm_source=linkedin.com&utm_medium=social<br><br>
 
 ## Python
 #### Python Cheat Sheet
 * http://datasciencefree.com/python.pdf
+
+#### Python For Data Science - A Cheat Sheet For Beginners
+* https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.0x1rxEA
 
 #### Python For Data Science - Cheat Sheet (Python Basics)
 * https://datacamp-community-prod.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612<br><br>
