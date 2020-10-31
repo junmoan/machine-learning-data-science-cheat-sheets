@@ -49,7 +49,10 @@ This document is under early stage development.
 * https://datacamp-community-prod.s3.amazonaws.com/e9f83f72-a81b-42c7-af44-4e35b48b20b7
 
 #### NumPy Cheat Sheet: Data Analysis in Python
-* https://www.datacamp.com/community/blog/python-numpy-cheat-sheet#gs.Nw3V6CE<br><br>
+* https://www.datacamp.com/community/blog/python-numpy-cheat-sheet#gs.Nw3V6CE
+
+#### Numpy Sample Codes
+* https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/numpy/numpy.ipynb<br><br>
 
 ## Pandas
 #### Python For Data Science - Cheat Sheet (Pandas Basics)
@@ -65,7 +68,10 @@ This document is under early stage development.
 * http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3
 
 #### Python For Data Science - Cheat Sheet (Pandas)
-* https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf<br><br>
+* https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf
+
+#### Pandas Sample Codes
+* https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/pandas/pandas.ipynb<br><br>
 
 ## Deep Learning
 #### TensorFlow
@@ -73,6 +79,9 @@ This document is under early stage development.
 
 #### PyTorch
 * https://pytorch.org/tutorials/beginner/ptcheat.html
+
+#### Pytorch Sample Codes
+* https://github.com/bfortuner/pytorch-cheatsheet/blob/master/pytorch-cheatsheet.ipynb
 
 #### Python For Data Science - Cheat Sheet (Keras)
 * https://datacamp-community-prod.s3.amazonaws.com/4d91fcbc-820d-4ae2-891b-f7a436ebefd4<br><br>
@@ -106,6 +115,9 @@ This document is under early stage development.
 
 #### Python For Data Science - Cheat Sheet (Matplotlib)
 * https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf
+
+#### matplotlib Sample Codes
+* https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/matplotlib.ipynb
 
 #### Python For Data Science - Cheat Sheet (Seaborn)
 * https://datacamp-community-prod.s3.amazonaws.com/f9f06e72-519a-4722-9912-b5de742dbac4<br><br>
