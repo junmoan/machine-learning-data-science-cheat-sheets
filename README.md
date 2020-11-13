@@ -4,7 +4,7 @@ This document is under early stage development.
 <br>
 <br>
 ## List of Machine Learning and Data Science Cheat Sheet
-#### Neural Network Architectures
+#### The Neural Network Zoo
 * http://www.asimovinstitute.org/neural-network-zoo/
 
 #### Machine Learning Algorithm Cheat Sheet for Azure Machine Learning designer
