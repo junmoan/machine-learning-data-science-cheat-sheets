@@ -26,7 +26,10 @@ This document is under early stage development.
 * https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/
 
 #### Quick Guide: Steps To Perform Text Data Cleaning in Python
-* https://www.analyticsvidhya.com/blog/2015/06/quick-guide-text-data-cleaning-python/?utm_source=linkedin.com&utm_medium=social<br><br>
+* https://www.analyticsvidhya.com/blog/2015/06/quick-guide-text-data-cleaning-python/?utm_source=linkedin.com&utm_medium=social
+
+#### 101 Machine Learning Algorithms for Data Science with Cheat Sheets
+* https://www.r-bloggers.com/2019/07/101-machine-learning-algorithms-for-data-science-with-cheat-sheets/<br><br>
 
 ## Python
 #### Python Cheat Sheet
